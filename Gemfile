@@ -41,3 +41,9 @@ gem 'bootstrap-sass'
 
 # Memcached
 gem 'dalli'
+
+# Twitter / User Login
+gem 'twitter'
+gem 'twitter-login'
+gem 'open_uri_redirections' # for Twitter Profile Image API Reciretable
+gem 'devise'
